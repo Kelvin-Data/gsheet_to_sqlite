@@ -4,4 +4,4 @@ This tutorial demonstrates a simple automation workflow in Python using pygsheet
 
 📌 Full tutorial: https://python-post.blogspot.com/2026/05/how-to-automatically-generate-and-email.html
 
-![image_source](https://github.com/Kelvin-Data/...)
+![image_source](https://github.com/Kelvin-Data/gsheet_to_sqlite/blob/d23e5d57a6ca2abbdff26a689b6d1bc8688e29cb/gsheet_to_sqlite.png)
